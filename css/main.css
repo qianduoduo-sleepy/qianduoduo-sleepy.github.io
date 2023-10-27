@@ -187,9 +187,6 @@ h6:hover > .anchorjs-link {
   margin: 0.25rem 0;
   font-size: 0.85rem;
 }
-.footer-inner .visitor-count{
-  text-align: center;  
-}
 .footer-inner .statistics {
   display: flex;
   flex-direction: row;
